@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Source/SmartMidi.h"
-            timestampString = "553893530.2274491"
+            timestampString = "559254555.684397"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "374"
-            endingLineNumber = "374"
+            startingLineNumber = "377"
+            endingLineNumber = "377"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Source/SmartMidi.h"
-            timestampString = "553893530.227533"
+            timestampString = "559254555.684788"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "374"
-            endingLineNumber = "374"
+            startingLineNumber = "377"
+            endingLineNumber = "377"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -48,6 +48,22 @@
             startingLineNumber = "35"
             endingLineNumber = "35"
             landmarkName = "WheelsComponent::WheelsComponent ()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/MidiWheelsState.cpp"
+            timestampString = "559254555.685079"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "MidiWheelsState::processNextMidiEvent (const MidiMessage&amp; message)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
